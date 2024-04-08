@@ -1,6 +1,6 @@
 # Java AI Powered
 
-# Projeto do Bootcampo DIO Java AI Powered
+# Projeto do Bootcamp DIO Java AI Powered
 
 ## Diagrama de classes
 
