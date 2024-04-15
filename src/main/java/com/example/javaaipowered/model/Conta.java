@@ -13,10 +13,10 @@ public class Conta {
     @Column(unique = true)
     private String numero;
     private String agencia;
-    @Column(scale = 13, precision = 2)
+    @Column(scale = 2, precision = 13)
     private BigDecimal saldo;
 
-    @Column(scale = 13, precision = 2)
+    @Column(scale = 2, precision = 13)
     private BigDecimal limite;
 
     public String getNumero() {
